@@ -4,7 +4,10 @@ Othello Game uses MinMax algorithm to define the right moves  for the IA to play
 Made by : Rekik Sidahmed / Hani Salah eddine Cherif , 2019.
 
 Two players mode :
-![Capture](https://user-images.githubusercontent.com/44214274/121970475-eb277a00-cd76-11eb-923e-d83feb684e12.JPG)
+
+![image](https://user-images.githubusercontent.com/44214274/121970645-42c5e580-cd77-11eb-97cd-e9eed7ebb196.png)
+
+
 
 1 Vs IA mode: 
 
