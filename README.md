@@ -14,4 +14,4 @@ Two players mode :
 
 ![image](https://user-images.githubusercontent.com/44214274/121970542-10b48380-cd77-11eb-9e23-a801963e4426.png)
 
-Installation tip : put all folders in a folder named "Autilo".
+Launching tip : put all folders in a folder named "Autilo" and launch the Autilo file in processing.
